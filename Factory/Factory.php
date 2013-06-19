@@ -75,6 +75,7 @@ class Mouse implements Product{
 
 $keypad1 ='keypad';
 $keypad2 ='eyepad';
+
 $keyboard = new ShoppingCart();
 $keyboard->add($keypad2);
 //print_r( $keyboard->productsInTheCart[0]->getDescription());

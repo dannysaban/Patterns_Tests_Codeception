@@ -1,0 +1,12 @@
+[2013-06-15 17:58:43] AbstractClassCept.php.INFO: am on page "/" [] []
+[2013-06-15 17:58:43] AbstractClassCept.php.INFO: see "danny" [] []
+[2013-06-15 17:58:43] AbstractClassCept.php.INFO: PASSED [] []
+[2013-06-15 17:59:26] AbstractClassCept.php.INFO: am on page "/" [] []
+[2013-06-15 17:59:26] AbstractClassCept.php.INFO: see "danny" [] []
+[2013-06-15 17:59:26] AbstractClassCept.php.ALERT: 'danny' in Fanny be good!!!.
+Failed asserting that response contains "danny". Response was saved to 'log' directory. [] []
+[2013-06-15 17:59:26] AbstractClassCept.php.INFO: # FAILED # [] []
+[2013-06-15 17:59:26] AbstractClassCept.php.INFO: PASSED [] []
+[2013-06-15 18:00:07] AbstractClassCept.php.INFO: am on page "/" [] []
+[2013-06-15 18:00:07] AbstractClassCept.php.INFO: see "danny" [] []
+[2013-06-15 18:00:07] AbstractClassCept.php.INFO: PASSED [] []
